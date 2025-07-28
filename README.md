@@ -43,7 +43,7 @@ Plant_disease/
 # How to Run
 
 Clone the repository:
-git clone https://github.com/your-username/Plant_disease.git
+git clone https://github.com/RashmithaBolloju01/Plant_disease.git
 cd Plant_disease
 Open the notebook in Jupyter:
 jupyter notebook Plant-disease.ipynb
